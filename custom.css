@@ -1,3 +1,9 @@
 *{
     background-color: aliceblue;
 }
+dev{
+    background-color: aqua;
+}
+h1{
+    border: 1px solid black;
+}
